@@ -1,4 +1,4 @@
-package com.example.sportheca
+package com.example.sportheca.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
